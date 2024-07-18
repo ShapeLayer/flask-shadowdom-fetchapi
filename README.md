@@ -9,6 +9,11 @@
 brew install rye
 ```
 
+### Install Dependencies
+```sh
+rye sync
+```
+
 ## Start Project
 ```sh
 rye run server
